@@ -45,7 +45,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyDESxNXaB4n2pF9ur4uJ1g1O9272N1jTPc',
-    appId: '1:98445333419:web:f5d9814690f1afda7f78ee',
+    appId: 'YOURAPPID',
     messagingSenderId: '98445333419',
     projectId: 'pushnotificationtest2023',
     authDomain: 'pushnotificationtest2023.firebaseapp.com',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAVjSMzgqNKl_PlP8UGgdxErlIp8TwuZuI',
-    appId: '1:98445333419:android:8529769b3638fff17f78ee',
+    appId: 'YOURAPPID',
     messagingSenderId: '98445333419',
     projectId: 'pushnotificationtest2023',
     storageBucket: 'pushnotificationtest2023.appspot.com',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDTzzzvVBoVGoEJ-mI2yAqidfIuvcEk1lA',
-    appId: '1:98445333419:ios:61b2103272bb89dd7f78ee',
+    appId: 'YOURAPPID',
     messagingSenderId: '98445333419',
     projectId: 'pushnotificationtest2023',
     storageBucket: 'pushnotificationtest2023.appspot.com',
@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyDTzzzvVBoVGoEJ-mI2yAqidfIuvcEk1lA',
-    appId: '1:98445333419:ios:84cf44047e8b39ec7f78ee',
+    appId: 'YOURAPPID',
     messagingSenderId: '98445333419',
     projectId: 'pushnotificationtest2023',
     storageBucket: 'pushnotificationtest2023.appspot.com',

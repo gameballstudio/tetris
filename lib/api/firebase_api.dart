@@ -18,7 +18,6 @@ class FireBaseApi {
     // fetch FCM token for this device, whatever user allow permission or not
     final fFCMToken = await _fireBaseMessaging.getToken();
     // print to token for verify, everytime app installed on device then a new token is created
-    // current token is ccmDt5iVQfGpDQ8zoxG8GH:APA91bFosGoLUFX-3AETimqwi07f10RFJ-Vehwq1qQ6URfkgKyO422puWgqOO80nzESI2syNc-w63W_L8TiK3_8n6Qm4Kw17BG6HbnOKpk0tLrEElSXt1gHaoyJbbbz2S3xSR0V72uyR
     print("FireBase connect succesfully! This device token is: " + fFCMToken.toString());
     // attach notifition on this device
     attachPushNotification();
