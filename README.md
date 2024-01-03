@@ -1,8 +1,8 @@
 # Flutter Tetris Demo
 
-A Demo Flutter Game Tetris.
+A Demo Flutter Game Tetris
 
-## Layout
+# Layout
 
 Flutter is an quick way to create quick cross flatform prototype
 
