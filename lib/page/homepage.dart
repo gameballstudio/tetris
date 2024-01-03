@@ -13,7 +13,7 @@ class _HomepageState extends State<Homepage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Hello Lego Vietnam"),
+        title: Text("Hello Tetris Lego Demo"),
       ),
       body: Center(
         child: Text("Click the Red button below to join the simple game!"),),
