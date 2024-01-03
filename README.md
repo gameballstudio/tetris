@@ -14,7 +14,7 @@ And a simple game screen with scoring:
 
 ![Screenshot 2023-11-22 225536](https://github.com/gameballstudio/tetris_lego/assets/87974689/b9d3ee6c-4ed2-4f02-a1bf-45d48f3c2ab0)
 
-Enjoy it!
+Enjoy it for fun!
 
 
 
