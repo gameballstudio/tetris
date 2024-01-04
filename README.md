@@ -1,6 +1,6 @@
 # Flutter Tetris Demo
 
-A Demo Flutter Game Tetris
+A Demo Flutter Game Tetris with Firebase notification
 
 # Layout
 
