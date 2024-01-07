@@ -1,10 +1,12 @@
-# Flutter Tetris Demo
+# Tetris
 
-A Demo Flutter Game Tetris with Firebase notification
+A Tetris built with Flutter and Firebase API for notifications
 
-# Layout
+# Intro
 
-Flutter is an quick way to create quick cross flatform prototype
+Flutter is an quick way to create quick cross-flatform prototype for iOS and Android
+
+# Demo
 
 Here is simple welcome screen:
 
